@@ -54,14 +54,17 @@ names: ['person', 'bicycle', 'car', 'motorcycle', 'airplane']  # class names
 
 ## Transfer learning
 
-### Create a new virtual conda environment
+### YOLOv5
+[YOLOv5 Link](https://github.com/ultralytics/yolov5)
+#### Create a new virtual conda environment
 ```
 $ conda create --name yolov5 # create a new virtual env
 $ conda activate yolov5 # activate the new created env
 $ conda install pip # install pip for later use
 ```
 
-### Get pre-trained YOLOv5 model
+#### Get pre-trained YOLOv5 model
+
 ```
 $ git clone https://github.com/ultralytics/yolov5  # clone repo
 $ cd yolov5
