@@ -129,27 +129,8 @@ dmypy.json
 .pyre/
 
 *.DS_Store
-*.jpg
-*.jpeg
-*.png
-*.bmp
-*.tif
-*.tiff
-*.heic
-*.JPG
-*.JPEG
-*.PNG
-*.BMP
-*.TIF
-*.TIFF
-*.HEIC
-*.mp4
-*.mov
-*.MOV
-*.avi
-*.data
-*.json
-*.txt
+data/images/
+data/labels/
 *.zip
 
 yolov5/
