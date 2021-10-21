@@ -6,7 +6,7 @@
 
 + Orange Revabborre
 
-![Orange Revabborre.jpg](./img/classes/Orange Revabborre.jpg)
+![Orange Revabborre.jpg](./img/classes/Orange&#32;Revabborre.jpg)
 
 + Stingray
 
@@ -14,15 +14,15 @@
 
 + Toco Toucan
 
-![Toco Toucan](./img/classes/Toco Toucan.jpg)
+![Toco Toucan](./img/classes/Toco&#32;Toucan.jpg)
 
 + Emerald Toucanet
 
-![Emerald Toucanet](./img/classes/Emerald Toucanet.jpg)
+![Emerald Toucanet](./img/classes/Emerald&#32;Toucanet.jpg)
 
 + Pied Tamarin
 
-![Pied Tamarin](./img/classes/Pied Tamarin.png)
+![Pied Tamarin](./img/classes/Pied&#32;Tamarin.png)
 
 + Sunbittern
 
@@ -30,23 +30,23 @@
 
 + Goldbelly Damsel
 
-![Goldbelly Damsel](./img/classes/Goldbelly Damsel.png)
+![Goldbelly Damsel](./img/classes/Goldbelly&#32;Damsel.png)
 
 + Lemon Damsel
 
-![Lemon Damsel](./img/classes/Lemon Damsel.jpg)
+![Lemon Damsel](./img/classes/Lemon&#32;Damsel.jpg)
 
 + Red Ibis
 
-![Red Ibis](./img/classes/Red Ibis.jpg)
+![Red Ibis](./img/classes/Red&#32;Ibis.jpg)
 
 + Thornback Ray
 
-![Thornback Ray](./img/classes/Thornback Ray.jpg)
+![Thornback Ray](./img/classes/Thornback&#32;Ray.jpg)
 
 + Picked dogfish
 
-![Picked dogfish](./img/classes/Picked dogfish.png)
+![Picked dogfish](./img/classes/Picked&#32;dogfish.png)
 
 + Clownfish
 
@@ -54,7 +54,7 @@
 
 + Common dragonet
 
-![Common dragonet](./img/classes/Common dragonet.png)
+![Common dragonet](./img/classes/Common&#32;dragonet.png)
 
 + Starfish
 
@@ -62,17 +62,17 @@
 
 + Indian Surgeonfish
 
-![Indian Surgeonfish](./img/classes/Indian Surgeonfish.png)
+![Indian Surgeonfish](./img/classes/Indian&#32;Surgeonfish.png)
 
 + Yellowfin surgeonfish
 
-![Yellowfin surgeonfish](./img/classes/Yellowfin surgeonfish.png)
+![Yellowfin surgeonfish](./img/classes/Yellowfin&#32;surgeonfish.png)
 
 + Silver Moony
 
-![Silver Moony](./img/classes/Silver Moony.png)
+![Silver Moony](./img/classes/Silver&#32;Moony.png)
 
 + Blue Fish
 
-![Blue Fish](./img/classes/Blue Fish.png)
+![Blue Fish](./img/classes/Blue&#32;Fish.png)
 
