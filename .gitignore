@@ -137,3 +137,5 @@ data/labels/
 yolov5/
 coco128/
 dataset/
+Faster RCNN/
+data/
