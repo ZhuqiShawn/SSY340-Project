@@ -1,5 +1,5 @@
-# SSY340-Project
-This repo is for SSY340 Deep Machine Learning Course Project
+# Animal Detection Project
+This repo is for SSY340 Deep Machine Learning Course Project, building a network for detecting animals in [Universeum](https://www.universeum.se/en/). 
 
 ## Labeling Software
 
